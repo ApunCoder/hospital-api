@@ -24,3 +24,5 @@ To set up the Hospital API on your local machine, please follow the instructions
 
 ```
 
+## How To Check API
+**Use postman to check api**
